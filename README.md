@@ -2,6 +2,8 @@
 
 ### Solved File
 
+[Crypto_Clustering](https://github.com/BryanCarney/CryptoClustering/blob/main/Crypto_Clustering.ipynb)
+
 #### Prepare the Data
 
 • Used the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
